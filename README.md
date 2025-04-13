@@ -12,3 +12,5 @@
 - Criar .gitignore (Tudo o que está lá dentro, não irá subir pro GitHub)
 
 - Extensões maneiras: Material Icons, GitHub Copilot, GitHub Copilot Chat
+
+- Teste Teste Teste
